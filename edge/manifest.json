@@ -1,13 +1,16 @@
 {
   "manifest_version": 3,
   "name": "Custom New Tab",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Set any URL as your new tab page",
   "permissions": [
-    "storage"
+    "storage",
+    "tabs"
   ],
   "host_permissions": [
-    "file:///*"
+    "file:///*",
+    "edge:///*",
+    "chrome:///*"
   ],
   "action": {
     "default_popup": "popup.html",
