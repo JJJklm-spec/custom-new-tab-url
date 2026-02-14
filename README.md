@@ -14,9 +14,11 @@ Get Custom New Tab extension from the official stores for your desired browser:
 - Go to Extensions
 - Enable Developer Mode
 
+
 - Download Zip
 - Extract all
 - Open Extracted Folder
+
 
 - Move the Folder dedicated to your Browser in the Extension Page
 
