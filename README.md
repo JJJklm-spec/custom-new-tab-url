@@ -44,9 +44,9 @@ Install Extension
 ## Screenshots
 Initial new tab page
 
-![Extension's initial new page](demo/start.png)
+![Extension's initial new page](start.png)
 
 Popup for setting custom URL
 
-![Popup for setting new custom URL](demo/popup.png)
+![Popup for setting new custom URL](popup.png)
 
