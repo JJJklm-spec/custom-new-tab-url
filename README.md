@@ -1,16 +1,24 @@
 
 # Custom New Tab Extension
 
-A browser extension that allows you to set any URL (including local file URLs) as your new tab page.
+A browser extension that allows you to set any URL (including local file URLs) as your new tab page.#
+
+- Fork that removes annoying loading screen when opening new tab
 
 
 ## Installation
 Get Custom New Tab extension from the official stores for your desired browser:
 
-- Edge: https://microsoftedge.microsoft.com/addons/detail/custom-new-tab/olkmcdcdlefeekkgeckdoeepfhokcbae
-- Chrome: https://chrome.google.com/webstore/detail/olldkplmkcinccioilcpldblnaohgabc
-- Firefox: https://addons.mozilla.org/addon/custom-tab-url/
+- Open your Browser
+- Click on Hamburger Menu on top right
+- Go to Extensions
+- Enable Developer Mode
 
+- Download Zip
+- Extract all
+- Open Extracted Folder
+
+- Move the Folder dedicated to your Browser in the Extension Page
 
 ## Features
 - Set any web URL as your new tab page.
