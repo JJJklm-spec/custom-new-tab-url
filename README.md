@@ -1,7 +1,7 @@
 
 # Custom New Tab Extension
 
-A browser extension that allows you to set any URL (including local file URLs) as your new tab page.#
+A browser extension that allows you to set any URL (including local file URLs) as your new tab page.
 
 - Fork that removes annoying loading screen when opening new tab
 
